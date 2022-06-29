@@ -1,0 +1,6 @@
+###### Requirements without Version Specifiers ######
+ipython
+jupyter
+matplotlib
+numpy
+pandas
